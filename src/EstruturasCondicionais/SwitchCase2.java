@@ -1,3 +1,4 @@
+package EstruturasCondicionais;
 public class SwitchCase2 {
   public static void main(String[] args) {
     //Exemplo sem usar o break

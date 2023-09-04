@@ -1,3 +1,4 @@
+package EstruturasCondicionais;
 public class CondicionalEncadeada {
   public static void main(String[] args) {
     double nota = 6.0;
